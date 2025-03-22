@@ -1,0 +1,48 @@
+{
+    "batch_0": {
+        "none": 10,
+        "mammalia": 14,
+        "gastropoda": 25,
+        "liliopsida": 46,
+        "reptilia": 15,
+        "bivalvia": 23,
+        "polypodiopsida": 50,
+        "pinopsida": 49,
+        "equisetopsida": 18,
+        "holothuroidea": 19,
+        "echinoidea": 20,
+        "magnoliopsida": 48,
+        "anthozoa": 22,
+        "leotiomycetes": 23
+    },
+    "batch_1": {
+        "gastropoda": 25,
+        "pinopsida": 49,
+        "bivalvia": 23,
+        "mammalia": 14,
+        "polypodiopsida": 50,
+        "magnoliopsida": 48,
+        "liliopsida": 46,
+        "reptilia": 15,
+        "leotiomycetes": 18,
+        "echinoidea": 19,
+        "none": 20,
+        "anthozoa": 21,
+        "equisetopsida": 22
+    },
+    "batch_2": {
+        "pinopsida": 49,
+        "liliopsida": 46,
+        "holothuroidea": 12,
+        "leotiomycetes": 13,
+        "mammalia": 14,
+        "magnoliopsida": 48,
+        "gastropoda": 25,
+        "bivalvia": 23,
+        "polypodiopsida": 50,
+        "reptilia": 15,
+        "equisetopsida": 20,
+        "none of the provided options fit.  the image shows a lichen, which is not an organism from a single biological class.  lichen are a symbiotic relationship between a fungus and an alga.  the fungal component would be classified": 21,
+        "none": 22
+    }
+}

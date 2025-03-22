@@ -1,0 +1,33 @@
+{
+    "cifar10": {
+        "plane": 0,
+        "car": 1,
+        "bird": 2,
+        "cat": 3,
+        "deer": 4,
+        "dog": 5,
+        "frog": 6,
+        "horse": 7,
+        "ship": 8,
+        "truck": 9
+    },
+    "iNaturalist": {
+        "agaricomycetes": 33,
+        "arachnida": 2,
+        "bryopsida": 37,
+        "insecta": 6,
+        "malacostraca": 7,
+        "actinopterygii": 9,
+        "amphibia": 10,
+        "aves": 12,
+        "mammalia": 14,
+        "reptilia": 15,
+        "magnoliopsida": 48,
+        "pinopsida": 49,
+        "polypodiopsida": 50,
+        "liliopsida": 46,
+        "bivalvia": 23,
+        "gastropoda": 25,
+        "lecanoromycetes": 29
+    }
+}
